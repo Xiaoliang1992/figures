@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T06:53:25.980Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="1o8P7iIE1KOZiF6xwKDW" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T06:55:59.015Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="xkSpLmpwLrJ141Pu1oAm" version="15.9.1" type="github">
   <diagram id="6g_Fd1ajQckZ7Yqp9gsq" name="Page-1">
     <mxGraphModel dx="1635" dy="1973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -657,10 +657,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Wu8gp0XacO6iuZbw1E5-18" value="Position loop" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="892" y="1325" width="128" height="60" as="geometry" />
+          <mxGeometry x="892" y="1322" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Wu8gp0XacO6iuZbw1E5-19" value="velocity loop" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="892" y="1439" width="128" height="60" as="geometry" />
+          <mxGeometry x="892" y="1419" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Wu8gp0XacO6iuZbw1E5-23" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;controller state machine,&amp;nbsp;&lt;br&gt;Planning command, control error &amp;amp; processed measurement&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="812.5" y="1150" width="337.5" height="30" as="geometry" />
