@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T07:07:34.556Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="1Twttt7o64fjaGj9C2n9" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T07:41:59.038Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ERiuJ_vLUwmEqxMcKwCF" version="15.9.1" type="github">
   <diagram id="6g_Fd1ajQckZ7Yqp9gsq" name="Page-1">
-    <mxGraphModel dx="1363" dy="1839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1924" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -608,8 +608,8 @@
         <mxCell id="yFjyWssiRixOoeF2I7fQ-5" value="Measurement preprocessor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="823" y="843" width="128" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yFjyWssiRixOoeF2I7fQ-6" value="Planning FDI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="575.5" y="1038" width="128" height="60" as="geometry" />
+        <mxCell id="yFjyWssiRixOoeF2I7fQ-6" value="Planning fault diagnose" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1038" width="133.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Wu8gp0XacO6iuZbw1E5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="yFjyWssiRixOoeF2I7fQ-8" target="6Wu8gp0XacO6iuZbw1E5-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -635,11 +635,11 @@
         <mxCell id="6Wu8gp0XacO6iuZbw1E5-1" value="Latitude control" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="622" y="1340" width="128" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Wu8gp0XacO6iuZbw1E5-2" value="Measurement FDI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="738.5" y="1038" width="128" height="60" as="geometry" />
+        <mxCell id="6Wu8gp0XacO6iuZbw1E5-2" value="Measurement fault diagnose" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="738.5" y="1038" width="131.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6Wu8gp0XacO6iuZbw1E5-3" value="Actuator FDI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="898.5" y="1038" width="128" height="60" as="geometry" />
+        <mxCell id="6Wu8gp0XacO6iuZbw1E5-3" value="Actuator fault diagnose" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="898.5" y="1038" width="141.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Wu8gp0XacO6iuZbw1E5-12" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Fault diagnose &amp;amp; isolation&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="461" y="1008" width="170" height="30" as="geometry" />
