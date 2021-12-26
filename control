@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-26T18:00:21.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="VGgrgtXCq09KxJpJ6gvI" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-26T18:06:59.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="QysEbqVpzVDfFvQK6R4q" version="16.1.0" type="github">
   <diagram id="6g_Fd1ajQckZ7Yqp9gsq" name="Page-1">
-    <mxGraphModel dx="4493" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4730" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -915,7 +915,7 @@
           <mxGeometry y="294" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="FnE9__04ou4DFOAstVJT-41" value="Actuator" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1650" y="1910" width="350" height="138" as="geometry">
+          <mxGeometry x="-1650" y="1910" width="350" height="164" as="geometry">
             <mxRectangle x="330" y="90" width="150" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -925,14 +925,17 @@
         <mxCell id="FnE9__04ou4DFOAstVJT-43" value="- control_command_: ControlCommand" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="FnE9__04ou4DFOAstVJT-41" vertex="1">
           <mxGeometry y="52" width="350" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="rrN-a3ZdlPGQpdXjC7Ug-47" value="- atuator_command_: ActuatorCommand" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="FnE9__04ou4DFOAstVJT-41">
+          <mxGeometry y="78" width="350" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="FnE9__04ou4DFOAstVJT-44" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="FnE9__04ou4DFOAstVJT-41" vertex="1">
-          <mxGeometry y="78" width="350" height="8" as="geometry" />
+          <mxGeometry y="104" width="350" height="8" as="geometry" />
         </mxCell>
         <mxCell id="FnE9__04ou4DFOAstVJT-45" value="+ init(): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="FnE9__04ou4DFOAstVJT-41" vertex="1">
-          <mxGeometry y="86" width="350" height="26" as="geometry" />
+          <mxGeometry y="112" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="FnE9__04ou4DFOAstVJT-46" value="+ update(): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="FnE9__04ou4DFOAstVJT-41" vertex="1">
-          <mxGeometry y="112" width="350" height="26" as="geometry" />
+          <mxGeometry y="138" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="FnE9__04ou4DFOAstVJT-55" value="ControlStateMachine" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-2380" y="1246" width="480" height="138" as="geometry">
